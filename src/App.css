@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap");
+
+body {
+  font-family: "Sora";
+  justify-content: center;
+}
+
+.nodes {
+  margin: 5px 20px;
+  cursor: pointer;
+}
+
+.action {
+  margin-left: 1rem;
+}
+
+button {
+  margin: 0 2px;
+}
